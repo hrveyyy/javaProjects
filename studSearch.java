@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Baysac_Lab4 {
+public class studSearch {
 
 	public static void main(String[] args) {
 
@@ -48,3 +48,4 @@ public class Baysac_Lab4 {
 	}
 
 }
+
