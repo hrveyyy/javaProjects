@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Baysac_DCIT50_Laboratory2 {
+public class Sorting {
 
 	public static Scanner sc = new Scanner(System.in);
 	public static int arrSize;
@@ -131,3 +131,4 @@ public class Baysac_DCIT50_Laboratory2 {
 	}	
 	
 }	
+
