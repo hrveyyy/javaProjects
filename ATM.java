@@ -2,7 +2,7 @@ package practice;
 
 import java.util.Scanner;
 
-public class hii {
+public class ATM {
      public static Scanner sc = new Scanner(System.in);
      
      public static void main(String[] args) {
@@ -118,4 +118,5 @@ public class hii {
                return accountType;
           }
      }
+
 }
